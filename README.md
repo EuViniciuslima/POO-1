@@ -1,4 +1,4 @@
-# Programação Orienntada a Objetos 1
+# Programação Orientada a Objetos 1
 Repositório para resolução das questões de Programação Orientada a Objetos (POO) (UFRN)
 
 TEXTO-02
